@@ -1,0 +1,233 @@
+# Universal Solution Templates
+
+## Problem Definition Template
+problem_definition:
+  problem_statement: ""
+  
+  current_state:
+    description: ""
+    observable_symptoms: []
+    performance_metrics: []
+    
+  desired_state:
+    description: ""
+    target_outcomes: []
+    success_criteria: []
+    
+  gap_analysis:
+    performance_gaps: []
+    capability_gaps: []
+    resource_gaps: []
+    
+  stakeholder_analysis:
+    stakeholders:
+      - name: ""
+        impact_level: ""  # High/Medium/Low
+        concerns: []
+        success_criteria: []
+        influence_level: ""
+        
+  constraints_assumptions:
+    hard_constraints: []
+    soft_constraints: []
+    key_assumptions: []
+    
+  problem_decomposition:
+    method: ""  # Functional/Temporal/Stakeholder/Technical
+    components:
+      - component: ""
+        description: ""
+        sub_components: []
+        
+  success_metrics:
+    primary_kpis:
+      - metric: ""
+        current_value: ""
+        target_value: ""
+        measurement_method: ""
+        timeline: ""
+    secondary_indicators: []
+    
+  root_cause_hypotheses:
+    - hypothesis: ""
+      confidence_level: ""
+      evidence: ""
+      test_method: ""
+      
+  solution_criteria:
+    - criterion: ""
+      weight: 0.0  # Must sum to 1.0
+      description: ""
+      measurement: ""
+      
+  scope_boundaries:
+    in_scope: []
+    out_of_scope: []
+    dependencies: []
+    
+  risk_factors:
+    - risk: ""
+      likelihood: ""  # L/M/H
+      impact: ""      # L/M/H
+      mitigation: ""
+
+---
+
+## Solution Matrix Template
+solution_matrix:
+  problem_context:
+    problem_statement: ""
+    key_stakeholders: []
+    success_criteria: []
+    constraints: []
+    
+  generation_methods_applied: []
+  
+  evaluation_criteria:
+    - criterion: ""
+      weight: 0.0  # Must sum to 1.0
+      description: ""
+      direction: ""  # maximize/minimize
+      
+  solution_options:
+    - solution_name: ""
+      overview: ""
+      innovation_principle: ""
+      key_features: []
+      
+      implementation_approach:
+        - phase: ""
+          timeline: ""
+          deliverables: []
+          
+      advantages: []
+      disadvantages: []
+      
+      risk_assessment:
+        - risk: ""
+          likelihood: ""  # L/M/H
+          impact: ""      # L/M/H
+          mitigation: ""
+          
+      resource_requirements:
+        team: []
+        technology: []
+        budget_estimate:
+          one_time_cost: ""
+          annual_cost: ""
+          
+      quantitative_scores:
+        - criterion: ""
+          score: 0  # 1-10 scale
+          rationale: ""
+          
+  quantitative_evaluation:
+    scoring_results:
+      - solution: ""
+        weighted_score: 0.0
+        ranking: 0
+        
+  qualitative_comparison:
+    strategic_alignment: []
+    execution_confidence: []
+    stakeholder_preferences: []
+    
+  scenario_analysis:
+    optimistic_scenario:
+      description: ""
+      solution_performance: []
+    pessimistic_scenario:
+      description: ""
+      solution_performance: []
+    disruptive_scenario:
+      description: ""
+      solution_adaptability: []
+      
+  recommendation:
+    selected_solution: ""
+    weighted_score: 0.0
+    confidence_level: ""  # High/Medium/Low
+    timeline: ""
+    investment: ""
+    
+    decision_rationale: ""
+    
+    alternatives_not_selected:
+      - solution: ""
+        concerns: []
+        conditions_for_viability: []
+        
+    implementation_roadmap:
+      - phase: ""
+        timeline: ""
+        deliverables: []
+        success_criteria: []
+        
+  contingency_planning:
+    pivot_criteria: []
+    fallback_options: []
+    early_warning_indicators:
+      - indicator: ""
+        threshold: ""
+        response: ""
+        
+  success_measurement:
+    metrics:
+      - metric: ""
+        baseline: ""
+        target: ""
+        frequency: ""
+    evaluation_timeline: []
+    course_correction_process: ""
+
+---
+
+## Solution Iteration Template
+solution_iteration:
+  cycle_info:
+    cycle_number: 0
+    complexity_level: ""
+    total_cycles_planned: 0
+    
+  cycle_focus:
+    objectives: []
+    methods_to_apply: []
+    solution_categories: []
+    
+  generation_results:
+    conceptual_solutions: []
+    methodological_solutions: []
+    structural_solutions: []
+    operational_solutions: []
+    creative_solutions: []
+    
+  integration_synthesis:
+    combined_solutions: []
+    synergistic_effects: []
+    solution_architecture: []
+    
+  validation_testing:
+    assumptions_tested: []
+    constraints_validated: []
+    stakeholder_feedback: []
+    
+  refinement_enhancements:
+    improvements_made: []
+    optimizations_applied: []
+    risks_mitigated: []
+    
+  cycle_insights:
+    breakthrough_moments: []
+    pattern_discoveries: []
+    unexpected_findings: []
+    
+  next_cycle_preparation:
+    focus_areas: []
+    methods_to_explore: []
+    questions_to_investigate: []
+    
+  cycle_metadata:
+    start_time: ""
+    end_time: ""
+    effectiveness_rating: 0  # 1-5 scale
+    key_learnings: []

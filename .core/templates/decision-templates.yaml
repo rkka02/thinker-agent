@@ -1,0 +1,234 @@
+# Universal Decision Templates
+
+## Decision Record Template
+decision_record:
+  metadata:
+    decision_id: ""
+    decision_title: ""
+    date: ""
+    status: ""  # Proposed/Accepted/Deprecated/Superseded
+    decision_maker: ""
+    
+  context:
+    problem_statement: ""
+    motivating_forces: []
+    constraints: []
+    stakeholder_concerns: []
+    external_factors: []
+    
+  decision_process:
+    options_considered:
+      - option: ""
+        description: ""
+        key_characteristics: []
+        
+    evaluation_method: ""
+    
+    decision_criteria:
+      - criterion: ""
+        weight: ""  # High/Medium/Low
+        rationale: ""
+        
+    stakeholders_consulted:
+      - stakeholder: ""
+        role: ""
+        input_provided: ""
+        concerns_raised: []
+        
+  decision:
+    selected_option: ""
+    primary_rationale: ""
+    implementation_details: []
+    timeline: ""
+    scope_boundaries: []
+    conditions: []
+    
+  consequences:
+    expected_benefits: []
+    expected_costs: []
+    key_risks:
+      - risk: ""
+        likelihood: ""  # L/M/H
+        impact: ""      # L/M/H
+        mitigation: ""
+        
+  implementation_plan:
+    action_items:
+      - action: ""
+        owner: ""
+        due_date: ""
+        dependencies: []
+        
+    success_criteria: []
+    validation_approach: ""
+    review_schedule: []
+    
+  alternatives_rejected:
+    - option: ""
+      description: ""
+      rejection_reasons: []
+      reconsideration_conditions: []
+      
+  supporting_materials:
+    references: []
+    related_decisions: []
+    assumptions_made: []
+    
+  outcome_tracking:
+    actual_benefits: []
+    unexpected_consequences: []
+    lessons_learned: []
+    next_review_date: ""
+
+---
+
+## Decision Analysis Template
+decision_analysis:
+  decision_context:
+    decision_type: ""  # Strategic/Tactical/Operational
+    urgency_level: ""  # High/Medium/Low
+    reversibility: ""  # Easy/Difficult/Irreversible
+    stakeholder_count: 0
+    
+  problem_definition:
+    current_situation: ""
+    desired_outcome: ""
+    decision_trigger: ""
+    success_criteria: []
+    
+  stakeholder_analysis:
+    primary_stakeholders:
+      - name: ""
+        interests: []
+        influence_level: ""  # High/Medium/Low
+        impact_level: ""     # High/Medium/Low
+        
+    decision_authority:
+      final_decision_maker: ""
+      approval_required_from: []
+      veto_power: []
+      
+  option_generation:
+    generation_methods: []
+    
+    options:
+      - name: ""
+        description: ""
+        advantages: []
+        disadvantages: []
+        resource_requirements: []
+        implementation_complexity: ""
+        
+  evaluation_framework:
+    criteria:
+      - criterion: ""
+        weight: 0.0  # Must sum to 1.0
+        measurement: ""
+        target_direction: ""  # Maximize/Minimize
+        
+    scoring_method: ""  # Weighted/Ranked/Matrix
+    
+    option_scores:
+      - option: ""
+        criterion_scores:
+          - criterion: ""
+            score: 0  # 1-10 scale
+            rationale: ""
+        weighted_total: 0.0
+        
+  risk_analysis:
+    decision_risks:
+      - risk: ""
+        category: ""  # Implementation/Market/Technical/Financial
+        probability: ""  # L/M/H
+        impact: ""      # L/M/H
+        mitigation: ""
+        
+    scenario_analysis:
+      best_case: ""
+      worst_case: ""
+      most_likely: ""
+      
+  recommendation:
+    recommended_option: ""
+    confidence_level: ""  # High/Medium/Low
+    key_rationale: []
+    implementation_priority: ""
+    
+    conditions_for_success: []
+    early_warning_indicators: []
+    contingency_plans: []
+    
+  decision_quality_check:
+    information_quality: ""  # Complete/Partial/Limited
+    time_pressure_impact: ""  # None/Moderate/High
+    bias_considerations: []
+    expert_validation: []
+
+---
+
+## Multi-Criteria Decision Template
+multi_criteria_decision:
+  decision_overview:
+    decision_statement: ""
+    scope: ""
+    timeline: ""
+    constraints: []
+    
+  criteria_definition:
+    criteria:
+      - name: ""
+        description: ""
+        weight: 0.0  # Must sum to 1.0
+        measurement_scale: ""
+        importance_rationale: ""
+        
+  alternative_options:
+    - option_name: ""
+      description: ""
+      key_features: []
+      
+      criterion_assessments:
+        - criterion: ""
+          raw_score: 0
+          normalized_score: 0.0  # 0-1 scale
+          assessment_notes: ""
+          confidence: ""  # High/Medium/Low
+          
+  quantitative_analysis:
+    scoring_results:
+      - option: ""
+        weighted_score: 0.0
+        ranking: 0
+        score_breakdown:
+          - criterion: ""
+            contribution: 0.0
+            
+    sensitivity_analysis:
+      critical_weights:
+        - criterion: ""
+          threshold_change: ""
+          ranking_impact: ""
+          
+      score_sensitivity:
+        - option: ""
+          criterion: ""
+          score_change_impact: ""
+          
+  qualitative_considerations:
+    intangible_factors: []
+    strategic_alignment: []
+    cultural_fit: []
+    implementation_readiness: []
+    
+  decision_validation:
+    robustness_check: ""
+    stakeholder_alignment: ""
+    implementation_feasibility: ""
+    risk_assessment: ""
+    
+  final_recommendation:
+    selected_option: ""
+    selection_rationale: ""
+    implementation_approach: []
+    monitoring_plan: []

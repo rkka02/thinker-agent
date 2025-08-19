@@ -1,5 +1,32 @@
 # Cross-Domain Patterns
 
+## Complexity Assessment Patterns
+
+### Multi-Dimensional Complexity Framework
+- **Domains**: Problem-solving, project management, research, decision-making
+- **Pattern**: Assess problems across multiple independent dimensions
+- **Universal Dimensions**: Domain breadth, stakeholder alignment, solution uncertainty, constraint complexity, uncertainty level
+- **Applications**: Resource allocation, method selection, team formation, timeline planning
+- **Insight**: Total complexity determines appropriate analytical depth
+
+### Complexity-Adaptive Scaling
+- **Domains**: Education, consulting, research, product development
+- **Pattern**: Match analytical rigor to problem complexity
+- **Scale Mapping**: 
+  - Simple (5-8): Linear approaches, standard methods
+  - Medium (9-12): Structured analysis, multiple perspectives  
+  - Complex (13-16): Deep systematic analysis, synthesis required
+  - Wicked (17-20+): Emergent, adaptive approaches, continuous learning
+- **Applications**: Method selection, resource planning, quality assurance
+- **Insight**: Over/under-engineering analysis leads to inefficiency or failure
+
+### Progressive Complexity Discovery
+- **Domains**: Scientific research, engineering, organizational change
+- **Pattern**: Complexity often reveals itself during investigation
+- **Triggers**: New stakeholders, additional constraints, solution attempts
+- **Applications**: Adaptive planning, risk management, iterative design
+- **Insight**: Build reassessment into process design
+
 ## Universal Problem Patterns
 
 ### Signal vs. Noise

@@ -1,0 +1,169 @@
+# Universal Thinking Templates
+
+## Complexity Assessment Template
+complexity_assessment:
+  problem_statement: ""
+  
+  complexity_dimensions:
+    domain_breadth:
+      score: 0  # 1-4 scale
+      reasoning: ""
+      
+    stakeholder_alignment:
+      score: 0  # 1-4 scale  
+      reasoning: ""
+    
+    solution_uncertainty:
+      score: 0  # 1-4 scale
+      reasoning: ""
+    
+    impact_scope:
+      score: 0  # 1-4 scale
+      reasoning: ""
+    
+    time_pressure:
+      score: 0  # 1-4 scale
+      reasoning: ""
+
+  total_complexity_score: 0  # Sum of dimension scores (5-20)
+  
+  complexity_classification:
+    level: ""  # Simple (5-8), Medium (9-12), Complex (13-16), Wicked (17-20)
+    recommended_steps: 0  # 3, 5, 7, or 10
+    estimated_time: ""
+    
+  assessment_confidence:
+    level: ""  # High/Medium/Low
+    reassessment_triggers: []
+
+---
+
+## Thinking Plan Template  
+thinking_plan:
+  problem_statement: ""
+  complexity_level: ""  # Simple, Medium, Complex, Wicked
+  total_steps: 0
+  estimated_total_time: ""
+  
+  plan_structure:
+    steps:
+      - step_number: 1
+        title: ""
+        description: ""
+        focus_question: ""
+        methods: []
+        estimated_time: ""
+        success_criteria: []
+        validation_requirements: []
+        
+  cognitive_frameworks:
+    primary_framework: ""  # 5-layer universal framework
+    supporting_methods: []
+    cross_domain_research: []
+    
+  execution_guidelines:
+    step_progression: "sequential"
+    validation_gates: true
+    insight_capture: true
+    
+  plan_metadata:
+    created_date: ""
+    complexity_assessment_id: ""
+    plan_version: "1.0"
+
+---
+
+## Step Execution Template
+step_execution:
+  step_info:
+    step_number: 0
+    step_title: ""
+    focus_question: ""
+    planned_methods: []
+    
+  execution_context:
+    start_time: ""
+    actual_methods_used: []
+    adjustments_made: []
+    challenges_encountered: []
+    
+  step_results:
+    key_insights: []
+    findings: []
+    decisions_made: []
+    evidence_collected: []
+    
+  validation_status:
+    success_criteria_met: []
+    validation_evidence: []
+    user_confirmation: false
+    
+  knowledge_capture:
+    breakthrough_moments: []
+    pattern_recognition: []
+    cross_domain_connections: []
+    
+  next_steps:
+    immediate_actions: []
+    follow_up_questions: []
+    plan_adjustments_needed: []
+    
+  step_metadata:
+    completion_status: ""  # completed, partial, blocked
+    actual_time_spent: ""
+    effectiveness_rating: 0  # 1-5 scale
+
+---
+
+## Thinking Summary Template
+thinking_summary:
+  session_overview:
+    problem_statement: ""
+    complexity_level: ""
+    total_steps_planned: 0
+    steps_completed: 0
+    total_time_invested: ""
+    
+  execution_summary:
+    completed_steps:
+      - step_number: 0
+        title: ""
+        key_insights: []
+        time_spent: ""
+        
+    current_step:
+      step_number: 0
+      title: ""
+      progress_status: ""
+      remaining_work: []
+      
+  insight_synthesis:
+    breakthrough_insights: []
+    pattern_discoveries: []
+    cross_domain_connections: []
+    mental_model_updates: []
+    
+  decision_trail:
+    key_decisions: []
+    assumptions_challenged: []
+    hypotheses_tested: []
+    
+  knowledge_integration:
+    unified_understanding: ""
+    solution_directions: []
+    implementation_implications: []
+    
+  session_continuity:
+    resumption_context: ""
+    next_session_focus: []
+    context_preservation_needs: []
+    
+  learning_outcomes:
+    transferable_insights: []
+    method_effectiveness: []
+    personal_learning: []
+    
+  recommendations:
+    immediate_actions: []
+    further_investigation: []
+    stakeholder_engagements: []
