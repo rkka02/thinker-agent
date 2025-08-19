@@ -148,7 +148,7 @@ Optimize cognitive performance before method application:
 Establish current knowledge base with enhanced research:
 
 1. **Universal Best Practices Search**:
-   - **Web Search**: "domain-agnostic best practices {focus question keywords} 2024"
+   - **Web Search**: "domain-agnostic best practices {focus question keywords}"
    - **Web Search**: "{step methods} current approaches field experts"
    - **Web Search**: "metacognitive strategies {focus area} universal thinking frameworks"
    - **Capture**: State-of-the-art methodologies and cognitive approaches across disciplines

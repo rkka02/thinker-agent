@@ -152,7 +152,7 @@ iteration_plan:
 
 **Phase 0: Universal Solution Landscape Research**
 1. **Cross-Domain Intelligence Gathering**:
-   - **Web Search**: "latest solutions {problem domain} 2024 cross-disciplinary approaches"
+   - **Web Search**: "latest solutions {problem domain} cross-disciplinary approaches"
    - **Web Search**: "field trends {problem area} current state research"
    - **Capture**: Current solution landscape across multiple domains and disciplines
 
@@ -178,7 +178,7 @@ iteration_plan:
 **Systematic Innovation Orchestration with Real-Time Intelligence**:
 
 **Phase 1A: Universal Solution Framework Research** (All Cycles)
-- **Web Search**: "morphological analysis applications {problem domain} 2024 breakthrough cases"
+- **Web Search**: "morphological analysis applications {problem domain} breakthrough cases"
 - **Web Search**: "creative problem solving {problem type} CPS method recent applications"
 - **Web Search**: "synectics methodologies {field} metaphor-driven results examples"
 - **Web Search**: "scientific method adaptation {domain} systematic investigation approaches"
