@@ -168,7 +168,7 @@ next_action: "Execute 'create-thinking-plan' command to generate detailed step-b
 - Any adjustments explained and rescored
 - Final recommendation accepted before proceeding
 
-## Notes for Thinker
+## Notes for Sage
 
 **Calibration Guidelines**:
 - Err toward slightly higher complexity when uncertain

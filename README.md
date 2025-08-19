@@ -1,24 +1,29 @@
-# Thinker - Universal Cognitive Assistant
+# Thinker Agent - Problem Solver Iterative
 
-A powerful thinking and problem-solving agent that works across any domain - science, philosophy, personal decisions, creative projects, academic research, mathematical problems, artistic challenges, and life decisions.
+Universal problem-solving agent with systematic iterative thinking capabilities, migrated to standalone architecture.
 
-## What Thinker Does
+## Overview
 
-**🧠 Universal Thinking (`/thinker` then `*think`)**
-- **5-Layer Cognitive Framework**: Polya + Computational + Lateral + Systems + Conceptual thinking
-- **Adaptive Depth**: 3-10 steps based on problem complexity
-- **Cross-Domain Research**: Real-time web research for current best practices
-- **Simple Workflow**: Confirm plan → automatic execution → comprehensive insights
+This is a complete migration of the problem-solver-iterative agent, designed for systematic analysis across any domain - scientific research, philosophical inquiry, personal decisions, creative projects, academic investigation, mathematical problems, artistic challenges, and life decisions.
 
-**🚀 Universal Solution Generation (`/thinker` then `*solve`)**
-- **4 Solution Categories**: Conceptual, Methodological, Structural, Operational
-- **Progressive Evolution**: 2-5 cycles of solution refinement
-- **Multiple Methodologies**: Morphological analysis + Creative Problem Solving + Synectics + Scientific method
-- **Universal Application**: Works across all domains and fields
+## Features
+
+- **Universal Iterative Thinking**: Step-by-step progression with validation gates
+- **Complexity-Adaptive Depth**: Matches analytical rigor to problem complexity  
+- **Cross-Domain Intelligence**: Applies frameworks across disciplines
+- **Systematic Methodology**: 15+ problem-solving frameworks integrated
+- **Progressive Learning**: Captures insights and builds understanding iteratively
+
+## Agent Commands
+
+- `*think` - Universal thinking orchestrator with adaptive planning (3/5/7/10 steps)
+- `*solve` - Progressive solution evolution through multiple cycles  
+- `*status` - Session tracking and progress monitoring
+- `*help` - Context-aware assistance
 
 ## Quick Start
 
-1. **Activate Thinker**: Type `/thinker` in Claude Code
+1. **Load the agent**: Use the command `/thinker` or load `.core/agents/thinker.md`
 2. **For Systematic Analysis**: Use `*think` with your problem
 3. **For Solution Generation**: Use `*solve` with your challenge
 4. **Check Progress**: Use `*status` anytime
@@ -49,19 +54,32 @@ A powerful thinking and problem-solving agent that works across any domain - sci
 - **Cross-Domain Innovation**: Applies insights from multiple fields
 - **Universal Categories**: Solution types that work across all domains
 
-## File Structure
+## Directory Structure
+
 ```
-thinker-agent/
-├── .claude/
-│   └── commands/
-│       └── thinker.md              # Main agent configuration
-├── core/
-│   └── tasks/
-│       ├── complexity-assessment.md  # Problem complexity evaluation
-│       ├── create-thinking-plan.md   # Adaptive thinking plan generation
-│       ├── execute-step.md          # Universal multi-layer thinking execution
-│       └── solution-iteration.md     # Universal solution generation system
-└── README.md                        # This file
+.core/
+├── agents/
+│   └── thinker.md                      # Main agent file
+├── tasks/                              # Problem-solving task implementations
+│   ├── complexity-assessment.md
+│   ├── create-thinking-plan.md
+│   ├── execute-step.md
+│   └── [12 more task files]
+├── templates/                          # Interactive document templates  
+│   ├── complexity-assessment-tmpl.yaml
+│   ├── thinking-plan-tmpl.yaml
+│   └── [5 more template files]
+├── checklists/                         # Quality assurance checklists
+│   ├── problem-solver-checklist.md
+│   └── [2 more checklist files]
+├── data/                              # Knowledge libraries and guides
+│   ├── problem-solving-methods.md
+│   ├── mental-models-library.md
+│   └── [2 more data files]
+├── utils/                             # Supporting utilities
+│   ├── complexity-assessor.md
+│   └── [2 more utility files]
+└── core-config.yaml                   # Core configuration
 ```
 
 ## Simple Usage Examples
@@ -91,5 +109,35 @@ Thinker: [Generates, refines, and optimizes solutions using multiple methodologi
 - **Cross-Pollination**: Discovers insights by connecting across fields
 - **Proven Methodologies**: Built on time-tested universal frameworks (Polya, CPS, Synectics, etc.)
 - **Research-Enhanced**: Real-time integration of current knowledge and best practices
+
+## Problem Complexity Levels
+- **Simple (3 steps)**: Single domain, clear stakeholders, known solutions
+- **Medium (5 steps)**: Multiple domains, some conflicts, adaptation needed  
+- **Complex (7 steps)**: Cross-disciplinary, competing stakeholders, innovation required
+- **Wicked (10 steps)**: Novel domains, unknown stakeholders, breakthrough needed
+
+## Testing
+
+Run the included test script to verify migration integrity:
+
+```bash
+python test_agent.py
+```
+
+## Key Principles
+
+- **First Principles Thinking**: Decompose to fundamental truths
+- **Systems Perspective**: Identify leverage points and patterns
+- **Iterative Discipline**: Step-by-step progression with validation
+- **Cross-Domain Synthesis**: Create insights transcending boundaries
+- **Progressive Learning**: Build understanding systematically
+
+## Migration Notes
+
+This agent has been successfully migrated from the BMad framework to a standalone structure:
+- All dependencies properly copied and created
+- File references updated from `.bmad-core/` to `.core/`
+- All 33 required files verified and accessible
+- Agent functionality preserved and tested
 
 Transform any challenge into systematic progress with the power of universal cognitive frameworks! 🧠✨

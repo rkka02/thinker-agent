@@ -136,7 +136,7 @@ Optimize cognitive performance before method application:
    - Evaluate step complexity vs. user capability and expertise level
    - Assess cognitive fatigue and recommend optimal depth
    - Determine personalization factors (experience, domain knowledge, preferences)
-   - **Web Search**: "cognitive load optimization {problem domain} universal best practices"
+   - **Web Search**: "cognitive load optimization {problem domain} best practices"
 
 2. **Multi-Layer Integration Planning**:
    - Plan lateral thinking integration points
@@ -456,7 +456,7 @@ Each step produces its designated deliverables using appropriate templates and c
 - Understanding deepens through the sequence
 - No critical insights or decisions lost
 
-## Notes for Thinker
+## Notes for Sage
 
 **Enforcement Balance**:
 - Be firm about sequential progression (no skipping ahead)

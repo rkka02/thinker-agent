@@ -1,0 +1,56 @@
+thinking_plan:
+  problem_statement: ""
+  complexity_level: ""  # Simple, Medium, Complex, Wicked
+  total_steps: 0
+  estimated_total_time: ""
+  
+  plan_structure:
+    steps:
+      - step_number: 1
+        title: ""
+        description: ""
+        methods: []
+        estimated_time: ""
+        success_criteria: []
+        inputs_required: []
+        expected_outputs: []
+        validation_requirements: []
+        
+      - step_number: 2
+        title: ""
+        description: ""
+        methods: []
+        estimated_time: ""
+        success_criteria: []
+        inputs_required: []
+        expected_outputs: []
+        validation_requirements: []
+        
+  cognitive_frameworks:
+    primary_framework: ""  # Polya, Systems Thinking, etc.
+    supporting_frameworks: []
+    cross_domain_research: []
+    
+  execution_guidelines:
+    step_progression: "sequential"  # sequential, parallel, adaptive
+    validation_gates: true
+    insight_capture: true
+    plan_adjustment_triggers: []
+    
+  success_metrics:
+    problem_resolution: ""
+    insight_depth: ""
+    solution_quality: ""
+    learning_outcomes: []
+    
+  resources_required:
+    time_investment: ""
+    information_needs: []
+    expertise_areas: []
+    tools_methods: []
+    
+  plan_metadata:
+    created_date: ""
+    complexity_assessment_id: ""
+    plan_version: "1.0"
+    adjustment_history: []

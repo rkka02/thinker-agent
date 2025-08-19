@@ -1,0 +1,64 @@
+problem_complexity_assessment:
+  problem_statement: ""
+  
+  complexity_dimensions:
+    domain_complexity:
+      score: 0  # 1-5 scale
+      description: ""
+      factors:
+        - single_domain: false
+        - multiple_domains: false
+        - cross_disciplinary: false
+        - novel_domain: false
+    
+    stakeholder_complexity:
+      score: 0  # 1-5 scale  
+      description: ""
+      factors:
+        - single_stakeholder: false
+        - multiple_aligned: false
+        - conflicting_interests: false
+        - unknown_stakeholders: false
+    
+    solution_space_complexity:
+      score: 0  # 1-5 scale
+      description: ""
+      factors:
+        - known_solutions: false
+        - adaptation_needed: false
+        - innovation_required: false
+        - breakthrough_needed: false
+    
+    constraint_complexity:
+      score: 0  # 1-5 scale
+      description: ""
+      factors:
+        - clear_constraints: false
+        - competing_constraints: false
+        - unknown_constraints: false
+        - paradoxical_constraints: false
+    
+    uncertainty_complexity:
+      score: 0  # 1-5 scale
+      description: ""
+      factors:
+        - high_certainty: false
+        - measurable_risk: false
+        - deep_uncertainty: false
+        - unknown_unknowns: false
+
+  total_complexity_score: 0  # Sum of dimension scores
+  
+  complexity_classification:
+    level: ""  # Simple (5-8), Medium (9-12), Complex (13-16), Wicked (17-20+)
+    reasoning: ""
+    
+  recommended_thinking_approach:
+    steps: 0  # 3, 5, 7, or 10 based on complexity
+    estimated_time: ""
+    key_methods: []
+    
+  assessment_confidence:
+    level: ""  # High/Medium/Low
+    reasoning: ""
+    reassessment_triggers: []

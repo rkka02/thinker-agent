@@ -371,7 +371,7 @@ session_tracking:
 - Validation criteria are specific and checkable
 - Cannot advance without meeting completion criteria
 
-## Notes for Thinker
+## Notes for Sage
 
 **Plan Adaptation**:
 - Plans can be adjusted mid-execution if complexity changes

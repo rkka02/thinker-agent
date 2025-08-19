@@ -463,7 +463,7 @@ solution_package:
 - Stakeholder concerns are systematically addressed
 - Implementation path becomes clear and actionable
 
-## Notes for Thinker
+## Notes for Sage
 
 **Iteration Discipline**:
 - Don't rush through cycles - each cycle should genuinely improve the solution
