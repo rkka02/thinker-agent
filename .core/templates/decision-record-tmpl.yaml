@@ -189,7 +189,7 @@ sections:
       - Maintain the current monolith for shared utilities and gradual migration of remaining features
       - All new features will be developed as separate microservices
       
-      Timeline: Complete migration of core services by Q3 2024
+      Timeline: Complete migration of core services by Q3 next year
       Scope: Customer-facing services only; internal admin tools remain in monolith initially"
 
   - id: consequences
@@ -254,10 +254,10 @@ sections:
           Specific tasks required to implement this decision.
           Assign clear ownership and realistic timelines.
         examples:
-          - ["Service boundary analysis and domain modeling", "Tech Lead", "2024-01-15", "Not Started", "Architecture team alignment"]
-          - ["Set up service mesh infrastructure", "DevOps Lead", "2024-01-30", "Not Started", "Cloud infrastructure approval"]
-          - ["Define service contracts and API standards", "API Working Group", "2024-02-01", "Not Started", "Service boundaries defined"]
-          - ["Extract User Management service (pilot)", "Backend Team A", "2024-02-28", "Not Started", "Service mesh and contracts ready"]
+          - ["Service boundary analysis and domain modeling", "Tech Lead", "Jan 15", "Not Started", "Architecture team alignment"]
+          - ["Set up service mesh infrastructure", "DevOps Lead", "Jan 30", "Not Started", "Cloud infrastructure approval"]
+          - ["Define service contracts and API standards", "API Working Group", "Feb 1", "Not Started", "Service boundaries defined"]
+          - ["Extract User Management service (pilot)", "Backend Team A", "Feb 28", "Not Started", "Service mesh and contracts ready"]
       
       - id: success-criteria
         title: Success Criteria
@@ -335,9 +335,9 @@ sections:
       Track changes to this ADR over time.
       First entry is automatically populated when ADR is created.
     examples:
-      - ["2024-01-10", "1.0", "Tech Lead", "Initial version - microservices decision"]
-      - ["2024-01-15", "1.1", "Architecture Team", "Added implementation timeline details"]
-      - ["2024-03-01", "2.0", "Tech Lead", "Updated based on pilot service results"]
+      - ["Jan 10", "1.0", "Tech Lead", "Initial version - microservices decision"]
+      - ["Jan 15", "1.1", "Architecture Team", "Added implementation timeline details"]
+      - ["Mar 1", "2.0", "Tech Lead", "Updated based on pilot service results"]
 
   - id: decision-outcome
     title: Decision Outcome Tracking

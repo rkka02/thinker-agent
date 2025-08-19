@@ -136,7 +136,7 @@ Optimize cognitive performance before method application:
    - Evaluate step complexity vs. user capability and expertise level
    - Assess cognitive fatigue and recommend optimal depth
    - Determine personalization factors (experience, domain knowledge, preferences)
-   - **Web Search**: "cognitive load optimization {problem domain} best practices"
+   - **Web Search**: Research cognitive load optimization best practices relevant to the problem domain
 
 2. **Multi-Layer Integration Planning**:
    - Plan lateral thinking integration points
@@ -148,21 +148,21 @@ Optimize cognitive performance before method application:
 Establish current knowledge base with enhanced research:
 
 1. **Universal Best Practices Search**:
-   - **Web Search**: "domain-agnostic best practices {focus question keywords}"
-   - **Web Search**: "{step methods} current approaches field experts"
-   - **Web Search**: "metacognitive strategies {focus area} universal thinking frameworks"
+   - **Web Search**: Formulate intelligent queries to find domain-agnostic best practices relevant to the current focus question and step methods
+   - **Web Search**: Research current approaches and expert insights for the methodologies being applied
+   - **Web Search**: Discover metacognitive strategies and universal thinking frameworks applicable to the focus area
    - **Capture**: State-of-the-art methodologies and cognitive approaches across disciplines
 
 2. **Cross-Domain Research**:
-   - **Web Search**: "case studies across disciplines {problem domain} successful solutions"
-   - **Web Search**: "scholarly research {focus question topic} expert insights"
-   - **Web Search**: "systems thinking applications {problem domain} universal principles"
+   - **Web Search**: Find case studies across disciplines showing successful solutions in the problem domain
+   - **Web Search**: Research scholarly work and expert insights related to the focus question topic
+   - **Web Search**: Explore systems thinking applications and universal principles relevant to the problem domain
    - **Capture**: Real-world examples and expert perspectives from multiple fields
 
 3. **Universal Validation Research**:
-   - **Web Search**: "common methodological mistakes {step focus} lessons learned"
-   - **Web Search**: "validation frameworks {analysis type} cross-domain reliability"
-   - **Web Search**: "critical thinking standards {domain} universal quality assessment"
+   - **Web Search**: Research common methodological mistakes and lessons learned for the step focus area
+   - **Web Search**: Find validation frameworks and cross-domain reliability approaches for the analysis type
+   - **Web Search**: Discover critical thinking standards and universal quality assessment methods for the domain
    - **Capture**: Pitfalls to avoid and validation approaches applicable across domains
 
 **Phase B: Multi-Layer Method Execution**
@@ -171,13 +171,13 @@ Apply enhanced method integration with cognitive frameworks:
 **Example: Step 2 of Medium complexity (Universal Causal Analysis)**
 
 **Layer 1: Polya's Universal Problem Understanding**:
-- **Web Search**: "universal causal analysis techniques {problem type} domain-agnostic"
+- **Web Search**: Research universal causal analysis techniques appropriate for the problem type
 - **Understand the Problem**: What are we trying to explain causally across any domain?
-- **Web Search**: "5 whys technique applications {field} systematic questioning"
+- **Web Search**: Find applications and best practices for 5 whys technique in systematic questioning
 - Apply 5 Whys with universal questioning approach
-- **Web Search**: "fishbone diagram applications {domain}" if multi-factor
+- **Web Search**: Research fishbone diagram applications for multi-factor analysis in the domain
 - Apply causal mapping enhanced with domain-appropriate factors
-- **Web Search**: "evidence validation {problem domain} cross-disciplinary methodologies"
+- **Web Search**: Find evidence validation methodologies and cross-disciplinary approaches for the problem domain
 
 **Layer 2: Computational Thinking Integration**:
 - **Decomposition**: Break complex causation into manageable causal components
@@ -208,7 +208,7 @@ Apply enhanced method integration with cognitive frameworks:
 - **Element Relationship Mapping**: "How do different factors relate within this causal system?"
 - **Leverage Point Identification**: "Where can small changes produce large causal effects?"
 - **Feedback Loop Analysis**: "What self-reinforcing or balancing causal loops exist?"
-- **Web Search**: "systems thinking causal analysis {problem domain} universal principles"
+- **Web Search**: Research systems thinking causal analysis and universal principles applicable to the problem domain
 
 **Layer 5: Conceptual Connection Mapping**:
 - **Causal Visualization**: Create visual representations of causal relationships

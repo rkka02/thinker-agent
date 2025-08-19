@@ -152,18 +152,18 @@ iteration_plan:
 
 **Phase 0: Universal Solution Landscape Research**
 1. **Cross-Domain Intelligence Gathering**:
-   - **Web Search**: "latest solutions {problem domain} cross-disciplinary approaches"
-   - **Web Search**: "field trends {problem area} current state research"
+   - **Web Search**: Research latest solutions and cross-disciplinary approaches for the problem domain
+   - **Web Search**: Investigate current field trends and research state for the problem area
    - **Capture**: Current solution landscape across multiple domains and disciplines
 
 2. **Methodological State-of-the-Art**:
-   - **Web Search**: "breakthrough methodologies {solution area} recent innovations"
-   - **Web Search**: "best practices {problem type} expert recommendations across fields"
+   - **Web Search**: Find breakthrough methodologies and recent innovations in the solution area
+   - **Web Search**: Research best practices and expert recommendations for the problem type across fields
    - **Capture**: Methodological frontiers and proven universal approaches
 
 3. **Cross-Domain Success Analysis**:
-   - **Web Search**: "how different fields solve {problem description} case studies"
-   - **Web Search**: "successful implementations {solution category} lessons learned across domains"
+   - **Web Search**: Explore how different fields solve similar problems through case studies
+   - **Web Search**: Find successful implementations and lessons learned for the solution category across domains
    - **Capture**: Real-world success stories and failure patterns from multiple disciplines
 
 **Phase 0B: Traditional Context Setup**
@@ -178,27 +178,27 @@ iteration_plan:
 **Systematic Innovation Orchestration with Real-Time Intelligence**:
 
 **Phase 1A: Universal Solution Framework Research** (All Cycles)
-- **Web Search**: "morphological analysis applications {problem domain} breakthrough cases"
-- **Web Search**: "creative problem solving {problem type} CPS method recent applications"
-- **Web Search**: "synectics methodologies {field} metaphor-driven results examples"
-- **Web Search**: "scientific method adaptation {domain} systematic investigation approaches"
-- **Web Search**: "constraint-based solution generation {problem area} universal breakthrough approaches"
-- **Web Search**: "solution orchestration {problem type} multi-framework combination strategies"
+- **Web Search**: Research morphological analysis applications and breakthrough cases for the problem domain
+- **Web Search**: Find creative problem solving and CPS method applications for the problem type
+- **Web Search**: Explore synectics methodologies and metaphor-driven results examples in the field
+- **Web Search**: Research scientific method adaptation and systematic investigation approaches for the domain
+- **Web Search**: Research constraint-based solution generation and universal breakthrough approaches for the problem area
+- **Web Search**: Find solution orchestration and multi-framework combination strategies for the problem type
 - **Capture**: State-of-the-art universal solution generation methodologies and orchestration patterns
 
 **Generation Cycles (Cycle 1)**:
 **Phase 1B: Universal Solution Category Landscape Research**
-- **Web Search**: "morphological analysis mapping {problem domain} comprehensive solution space"
-- **Web Search**: "conceptual solutions {field} definitional theoretical perspective scope"
-- **Web Search**: "methodological solutions {problem area} process tools sequence integration"
-- **Web Search**: "structural solutions {domain} organization relationships hierarchy boundaries"
-- **Web Search**: "operational solutions {field} implementation monitoring adaptation validation"
+- **Web Search**: Research morphological analysis mapping for comprehensive solution space in the problem domain
+- **Web Search**: Explore conceptual solutions and theoretical perspectives within the field scope
+- **Web Search**: Find methodological solutions, process tools, and sequence integration for the problem area
+- **Web Search**: Research structural solutions, organization patterns, and relationship hierarchies for the domain
+- **Web Search**: Research operational solutions, implementation monitoring, and adaptation validation for the field
 
 **Phase 1C: Creative Problem Solving Pattern Research**
-- **Web Search**: "CPS method applications {problem type} creative breakthrough patterns"
-- **Web Search**: "synectics techniques {problem domain} metaphor-driven solution patterns"
-- **Web Search**: "brainstorming effectiveness {field} idea generation success patterns"
-- **Web Search**: "cross-domain creative solutions {problem characteristics} unexpected approaches"
+- **Web Search**: Find CPS method applications and creative breakthrough patterns for the problem type
+- **Web Search**: Explore synectics techniques and metaphor-driven solution patterns for the problem domain
+- **Web Search**: Research brainstorming effectiveness and idea generation success patterns in the field
+- **Web Search**: Find cross-domain creative solutions and unexpected approaches for the problem characteristics
 
 **Phase 1D: Universal Solution Generation**
 - **Morphological Analysis Application**: Systematically map solution space across 4 universal categories
@@ -215,11 +215,11 @@ iteration_plan:
 
 **Review Cycles (Cycle 2+)**:
 **Phase 1B: Universal Solution Portfolio Analysis Research**
-- **Web Search**: "solution portfolio optimization {solution domain} balance strategies across fields"
-- **Web Search**: "morphological analysis orchestration {field} combination effectiveness"
-- **Web Search**: "creative problem solving validation {solution type} effectiveness assessment"
-- **Web Search**: "solution category balance {domain} portfolio management across disciplines"
-- **Web Search**: "constraint leverage {solution approach} transformation opportunities universal"
+- **Web Search**: Research solution portfolio optimization and balance strategies across fields for the solution domain
+- **Web Search**: Find morphological analysis orchestration and combination effectiveness in the field
+- **Web Search**: Research creative problem solving validation and effectiveness assessment for the solution type
+- **Web Search**: Explore solution category balance and portfolio management across disciplines for the domain
+- **Web Search**: Find constraint leverage and universal transformation opportunities for the solution approach
 
 **Phase 1C: Universal Solution Enhancement Analysis**
 - **Solution Category Orchestration Analysis**: How can different solution categories be combined for greater impact across domains?
@@ -230,74 +230,74 @@ iteration_plan:
 
 **Phase 1D: Universal Refinement Activities**
 - **Solution Category Integration**: 
-  - **Web Search**: "solution category combination {current categories} synergy optimization across domains"
+  - **Web Search**: Research solution category combination and synergy optimization across domains for current categories
   - Systematically combine and orchestrate multiple solution categories for breakthrough impact
 - **Creative Breakthrough Enhancement**:
-  - **Web Search**: "creative enhancement {solution approach} breakthrough achievement strategies"
+  - **Web Search**: Find creative enhancement and breakthrough achievement strategies for the solution approach
   - Apply synectics, lateral thinking, and creative analogies for exponential improvement
 - **Solution Portfolio Rebalancing**:
-  - **Web Search**: "solution portfolio optimization {complexity level} strategic balance universal"
+  - **Web Search**: Research solution portfolio optimization and universal strategic balance for the complexity level
   - Rebalance solution portfolio across foundation/extension/transformation approaches for optimal impact
 - **Universal Constraint Leverage**:
-  - **Web Search**: "constraint-based solutions {current constraints} breakthrough transformation universal"
+  - **Web Search**: Explore constraint-based solutions and universal breakthrough transformation for current constraints
   - Transform current constraints into advantages and solution drivers across any domain
 - **Cross-Domain Pattern Application**:
-  - **Web Search**: "cross-domain solution enhancement {solution domain} pattern application from other fields"
+  - **Web Search**: Research cross-domain solution enhancement and pattern application from other fields for the solution domain
   - Apply successful patterns from other fields and domains to enhance current solutions
 
 #### Phase 2: USGS-Enhanced Critical Review & Analysis
 **Universal Solution Framework Validation Process**:
 
 **Phase 2A: Universal Framework Benchmarking**
-- **Web Search**: "morphological analysis benchmarks {solution domain} effectiveness examples across fields"
-- **Web Search**: "creative problem solving validation methods {solution approach} systematic verification"
-- **Web Search**: "synectics assessment {field} metaphor-driven impact measurement"
-- **Web Search**: "solution category benchmarks {complexity} portfolio optimization standards universal"
-- **Web Search**: "constraint-based solution validation {domain} transformation success metrics across disciplines"
+- **Web Search**: Find morphological analysis benchmarks and effectiveness examples across fields for the solution domain
+- **Web Search**: Research creative problem solving validation methods and systematic verification for the solution approach
+- **Web Search**: Explore synectics assessment and metaphor-driven impact measurement in the field
+- **Web Search**: Research solution category benchmarks and universal portfolio optimization standards for the complexity level
+- **Web Search**: Research constraint-based solution validation and transformation success metrics across disciplines for the domain
 - **Capture**: Universal solution framework benchmarks and validation standards
 
 **Phase 2B: Universal Solution Risk & Failure Mode Research**
-- **Web Search**: "morphological analysis failure modes {selected categories} common risks patterns"
-- **Web Search**: "creative problem solving implementation failures {domain} method application mistakes"
-- **Web Search**: "synectics pitfalls {field} metaphor-driven challenges"
-- **Web Search**: "solution category misalignment {complexity} portfolio balance failures"
-- **Web Search**: "constraint solution risks {approach} transformation failure patterns universal"
+- **Web Search**: Find morphological analysis failure modes and common risk patterns for selected categories
+- **Web Search**: Research creative problem solving implementation failures and method application mistakes in the domain
+- **Web Search**: Explore synectics pitfalls and metaphor-driven challenges in the field
+- **Web Search**: Research solution category misalignment and portfolio balance failures for the complexity level
+- **Web Search**: Find constraint solution risks and universal transformation failure patterns for the approach
 - **Capture**: Universal solution-specific failure patterns and mitigation strategies
 
 **Phase 2C: USGS Framework-Informed Critical Analysis**
 
 1. **Solution Category Effectiveness Assessment**:
-   - **Web Search**: "solution category effectiveness {current categories} field success validation"
+   - **Web Search**: Research solution category effectiveness and field success validation for current categories
    - Which solution categories are working effectively and why (validated by cross-domain cases)?
    - What are the synergies between applied solution categories (confirmed by orchestration research)?
    - How does current solution category selection compare to successful benchmarks across disciplines?
 
 2. **Morphological Analysis Validation & Gap Assessment**:
-   - **Web Search**: "morphological analysis validation {applied parameters} effectiveness verification"
+   - **Web Search**: Find morphological analysis validation and effectiveness verification for applied parameters
    - Are the applied morphological parameters capturing the complete solution space effectively?
    - What additional solution dimensions could enhance solution completeness (based on cross-domain analysis)?
    - How do current solutions align with successful morphological analysis patterns?
 
 3. **Creative Breakthrough Assessment & Enhancement Analysis**:
-   - **Web Search**: "creative breakthrough assessment {solution domain} synectics CPS validation"
+   - **Web Search**: Research creative breakthrough assessment and synectics CPS validation for the solution domain
    - What aspects of the solution have true creative breakthrough potential across domains?
    - Which assumptions need challenging for creative improvement (based on synectics research)?
    - How can constraints be reframed to create unexpected advantages?
 
 4. **Solution Approach Alignment & Portfolio Optimization**:
-   - **Web Search**: "solution approach effectiveness {current balance} portfolio optimization universal"
+   - **Web Search**: Explore solution approach effectiveness and universal portfolio optimization for current balance
    - Is the current foundation/extension/transformation allocation optimal for the problem complexity?
    - How does the solution portfolio balance proven approaches with breakthrough potential?
    - What rebalancing could enhance overall solution impact across domains?
 
 5. **Universal Constraint Transformation Effectiveness**:
-   - **Web Search**: "constraint solution effectiveness {current constraints} transformation success universal"
+   - **Web Search**: Research constraint solution effectiveness and universal transformation success for current constraints
    - Which constraints have been successfully transformed into advantages across similar problems?
    - What additional constraint-based solution opportunities exist in other domains?
    - How can remaining constraints become stronger solution catalysts universally?
 
 6. **Implementation & Adaptation Reality Check (Universal-Informed)**:
-   - **Web Search**: "universal solution implementation {framework combination} real-world challenges"
+   - **Web Search**: Find universal solution implementation challenges and real-world applications for framework combinations
    - How difficult is it to implement multiple universal frameworks simultaneously across domains?
    - What universal problem-solving capabilities are required for orchestration success?
    - What could go wrong with solution category orchestration (learned from cross-domain implementations)?
